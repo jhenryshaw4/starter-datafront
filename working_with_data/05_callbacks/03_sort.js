@@ -6,8 +6,9 @@
   if (compareFunction(a,b) === 0) leave a and b unchanged
   --------------------------------------------------------- */
 
-function compare(a, b) {
+  function compare(a, b) {
     // write the callback 
+    return a-b
 }
   
 var numbers = [4,2,5,1,3];
